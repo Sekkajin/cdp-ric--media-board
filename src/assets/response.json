@@ -1,0 +1,149 @@
+[{
+    "mediaId": "13370",
+    "idDam": "16302",
+    "refid": "",
+    "name": "pdt-3276007097153-a-mazugi01",
+    "description": "",
+    "mediaUrl": "https://media-pp.adeo.com/media/13370/format/png",
+    "mediaBinaryUrl": "https://media-pp.adeo.com/media/13370",
+    "brightcoveId": "",
+    "customMediaType": "IMAGE",
+    "businessUnit": {
+        "id": "1",
+        "name": "LMFR"
+    },
+    "rooms": [],
+    "styles": [],
+    "category": {
+        "id": "18",
+        "name": "Ambiance",
+        "code": "A"
+    },
+    "subcategory": [],
+    "presence": false,
+    "copyright": false,
+    "status": "AVAILABLE",
+    "created": 1612877414000,
+    "modified": 1628089244000,
+    "products": [{
+        "name": "12345671 - TEST PASQ",
+        "ean": "1234567891236",
+        "localcode": "12345671"
+    }, {
+        "name": "82549821 - 3276007097153-Chandelier and suspended",
+        "ean": "3276007097153",
+        "localcode": "82549821"
+    }],
+    "angle": []
+}, {
+    "mediaId": "13371",
+    "idDam": "16305",
+    "refid": "",
+    "name": "pdt-3276007097153-a-mazugi02",
+    "description": "",
+    "mediaUrl": "https://media-pp.adeo.com/media/13371/format/png",
+    "mediaBinaryUrl": "https://media-pp.adeo.com/media/13371",
+    "brightcoveId": "",
+    "customMediaType": "IMAGE",
+    "businessUnit": {
+        "id": "1",
+        "name": "LMFR"
+    },
+    "rooms": [],
+    "styles": [],
+    "category": {
+        "id": "18",
+        "name": "Ambiance",
+        "code": "A"
+    },
+    "subcategory": [],
+    "presence": false,
+    "copyright": false,
+    "status": "AVAILABLE",
+    "created": 1612877421000,
+    "modified": 1628089243000,
+    "products": [{
+        "name": "12345671 - TEST PASQ",
+        "ean": "1234567891236",
+        "localcode": "12345671"
+    }, {
+        "name": "82549821 - 3276007097153-Chandelier and suspended",
+        "ean": "3276007097153",
+        "localcode": "82549821"
+    }],
+    "angle": []
+}, {
+    "mediaId": "13372",
+    "idDam": "16308",
+    "refid": "",
+    "name": "pdt-3276007097153-a-mazugi04",
+    "description": "",
+    "mediaUrl": "https://media-pp.adeo.com/media/13372/format/png",
+    "mediaBinaryUrl": "https://media-pp.adeo.com/media/13372",
+    "brightcoveId": "",
+    "customMediaType": "IMAGE",
+    "businessUnit": {
+        "id": "1",
+        "name": "LMFR"
+    },
+    "rooms": [],
+    "styles": [],
+    "category": {
+        "id": "18",
+        "name": "Ambiance",
+        "code": "A"
+    },
+    "subcategory": [],
+    "presence": false,
+    "copyright": false,
+    "status": "AVAILABLE",
+    "created": 1612877427000,
+    "modified": 1628089241000,
+    "products": [{
+        "name": "12345671 - TEST PASQ",
+        "ean": "1234567891236",
+        "localcode": "12345671"
+    }, {
+        "name": "82549821 - 3276007097153-Chandelier and suspended",
+        "ean": "3276007097153",
+        "localcode": "82549821"
+    }],
+    "angle": []
+}, {
+    "mediaId": "13373",
+    "idDam": "16311",
+    "refid": "",
+    "name": "pdt-3276007097153-tz-mazugi06",
+    "description": "",
+    "mediaUrl": "https://media-pp.adeo.com/media/13373/format/png",
+    "mediaBinaryUrl": "https://media-pp.adeo.com/media/13373",
+    "brightcoveId": "",
+    "customMediaType": "IMAGE",
+    "businessUnit": {
+        "id": "1",
+        "name": "LMFR"
+    },
+    "rooms": [],
+    "styles": [],
+    "category": {
+        "id": "56",
+        "name": "Product Zoom / Technical Zoom",
+        "code": "TZ"
+    },
+    "subcategory": [],
+    "presence": false,
+    "copyright": false,
+    "status": "AVAILABLE",
+    "created": 1612877434000,
+    "modified": 1628089239000,
+    "products": [{
+        "name": "12345671 - TEST PASQ",
+        "ean": "1234567891236",
+        "localcode": "12345671"
+    }, {
+        "name": "82549821 - 3276007097153-Chandelier and suspended",
+        "ean": "3276007097153",
+        "localcode": "82549821"
+    }],
+    "angle": []
+}]
